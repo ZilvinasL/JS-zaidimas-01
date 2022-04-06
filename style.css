@@ -1,4 +1,3 @@
-/* sukuriame 4 stulpelius ir 3 eilutes */
 .grid {
     display:flex;
     flex-wrap:wrap;
